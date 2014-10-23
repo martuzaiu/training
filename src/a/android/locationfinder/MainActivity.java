@@ -19,6 +19,9 @@ public class MainActivity extends Activity implements LocationListener {
 	protected String latitude, longitude;
 	protected boolean gps_enabled, network_enabled;
 
+		************
+*************
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
